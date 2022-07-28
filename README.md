@@ -21,6 +21,8 @@ into the bookdata folder created in C:/Library Kiosk/bookdata folder .
 ->Username-123456
 ->Password-123456, Login using these credentials to add more admins
 
+------Read the project presentation for a full report------
+
 You can also visit this link:  
 https://linktr.ee/libraryKiosk
 
