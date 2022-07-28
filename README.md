@@ -12,7 +12,7 @@ Thus our admin can access all public/private attributes and methods of both stud
 The program makes directories in C drive of the computer and stores all data in the form of files. Also this program works with a custom 
 header file "bookManagement.h" which contains all the operations that we can perform on books and the database. 
 
-::::::READ THESE BEFORE RUNNING THE PROGRAM::::::
+:::::: READ THESE BEFORE RUNNING THE PROGRAM ::::::
 
 **Before issuing the books, you need to enter books in the database by logging in as admin, or just copy the files provided in the books folder 
 into the bookdata folder created in C:/Library Kiosk/bookdata folder . 
@@ -21,12 +21,14 @@ into the bookdata folder created in C:/Library Kiosk/bookdata folder .
 ->Username-123456
 ->Password-123456, Login using these credentials to add more admins
 
-For a detailed report of the project, visit the link:  
+You can also visit this link:  
 https://linktr.ee/libraryKiosk
 
 Credits: 
 Name:       Charan Kamal Singh
+
 Roll No:    CO21314
+
 Branch:     CSE
 
 Submitted to - Sarabjit Sir
